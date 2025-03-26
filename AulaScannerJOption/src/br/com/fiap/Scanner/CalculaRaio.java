@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CalculaRaio {
     public static void main(String[] args) {
 
-        final float pi = 3.14f;
+        final float PI = 3.14f;
         float raio, area;
 
         Scanner scan;
@@ -16,7 +16,7 @@ public class CalculaRaio {
             System.out.print("Digite o valor do raio do círculo: ");
             raio = scan.nextFloat();
 
-            area = (raio * raio) * pi;
+            area = (raio * raio) * PI;
 
             System.out.println("A área do circulo é igual a: "+ area);
 
