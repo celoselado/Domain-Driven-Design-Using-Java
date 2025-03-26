@@ -5,7 +5,7 @@ import javax.swing.*;
 public class CalculaRaioJOption {
     public static void main(String[] args) {
 
-        final float pi = 3.14f;
+        final float PI = 3.14f;
         float raio, area;
         String auxiliar;
 
@@ -14,7 +14,7 @@ public class CalculaRaioJOption {
             auxiliar = JOptionPane.showInputDialog("Digite o raio do circulo: ");
             raio = Float.parseFloat(auxiliar);
 
-            area = (raio * raio) * pi;
+            area = (raio * raio) * PI;
 
             JOptionPane.showMessageDialog(null, "A área do circulo é de: "+area);
 
