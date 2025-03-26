@@ -1,4 +1,4 @@
-package br.com.fiap.exemploRadio;
+package br.com.fiap.ExemploRadio;
 
 public class UsaRadio {
 
