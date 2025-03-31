@@ -1,4 +1,6 @@
-package br.com.fiap.Televisor;
+package br.com.fiap.main;
+
+import br.com.fiap.bean.Televisor;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package br.com.fiap.Televisor;
+package br.com.fiap.bean;
 
 public class Televisor {
 

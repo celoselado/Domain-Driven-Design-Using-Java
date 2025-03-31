@@ -1,4 +1,6 @@
-package br.com.fiap.Tamagotchi;
+package br.com.fiap.main;
+
+import br.com.fiap.bean.Animal;
 
 import java.util.Scanner;
 

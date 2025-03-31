@@ -1,4 +1,4 @@
-package br.com.fiap.Tamagotchi;
+package br.com.fiap.bean;
 
 public class Animal {
 

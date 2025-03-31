@@ -1,4 +1,6 @@
-package br.com.fiap.ArCondicionado;
+package br.com.fiap.main;
+
+import br.com.fiap.bean.ArCondicionado;
 
 import java.util.Scanner;
 

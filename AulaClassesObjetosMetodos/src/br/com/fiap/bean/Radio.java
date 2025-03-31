@@ -1,4 +1,4 @@
-package br.com.fiap.ExemploRadio;
+package br.com.fiap.bean;
 
 public class Radio {
 

@@ -1,4 +1,4 @@
-package br.com.fiap.ArCondicionado;
+package br.com.fiap.bean;
 
 public class ArCondicionado {
 
