@@ -1,12 +1,10 @@
 package br.com.fiap.main;
 
-import br.com.fiap.bean.Radio;
-
-public class UsaRadio {
+public class Radio {
 
     public static void main(String[] args) {
 
-        Radio radio1 = new Radio(); // Declaração e instanciação do objeto! (Ele passa a existir)
+        br.com.fiap.bean.Radio radio1 = new br.com.fiap.bean.Radio(); // Declaração e instanciação do objeto! (Ele passa a existir)
 
         radio1.estacao = 54.3f; // Declarando o valor do atributo estação
         radio1.volume = 6; // Declarando o valor do atributo volume

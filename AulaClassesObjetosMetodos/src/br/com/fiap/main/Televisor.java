@@ -1,14 +1,12 @@
 package br.com.fiap.main;
 
-import br.com.fiap.bean.Televisor;
-
 import java.util.Scanner;
 
-public class UsaTelevisor {
+public class Televisor {
 
     public static void main(String[] args) {
 
-        Televisor televisao = new Televisor();
+        br.com.fiap.bean.Televisor televisao = new br.com.fiap.bean.Televisor();
         Scanner scan = new Scanner(System.in);
 
         televisao.volume = 5;

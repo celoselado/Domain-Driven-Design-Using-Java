@@ -1,14 +1,12 @@
 package br.com.fiap.main;
 
-import br.com.fiap.bean.ArCondicionado;
-
 import java.util.Scanner;
 
-public class UsaArCondicionado {
+public class ArCondicionado {
 
     public static void main(String[] args) {
 
-        ArCondicionado controleAr = new ArCondicionado();
+        br.com.fiap.bean.ArCondicionado controleAr = new br.com.fiap.bean.ArCondicionado();
         Scanner scan = new Scanner(System.in);
         int opcao;
         String modo;
